@@ -126,8 +126,8 @@ export const MediaShowcase: React.FC = () => {
                 
                 <div className="absolute bottom-0 left-0 w-full h-1/2 bg-gradient-to-t from-black to-transparent z-20 flex items-end p-6">
                    <div className="font-mono text-xs text-yellow-400">
-                      > INITIALIZING NEURAL LINK... <br/>
-                      > CONNECTION ESTABLISHED.
+                      &gt; INITIALIZING NEURAL LINK... <br/>
+                      &gt; CONNECTION ESTABLISHED.
                    </div>
                 </div>
 
