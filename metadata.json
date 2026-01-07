@@ -1,0 +1,7 @@
+{
+  "name": "NeonVoice n8n Connector",
+  "description": "A premium, neon-styled voice-to-text application connected to n8n workflow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
